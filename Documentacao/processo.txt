@@ -1,0 +1,32 @@
+*Produto será adquirido via assinatura, entrando em contato com a nossa empresa (via telefone, whastapp, e-mail...), proporcionalmente a quantidade de pacientes, 
+conforme tabela x
+	*assinaturas:
+		*Primeiro mês grátis
+			*pacotes anual, mensal, semestral ou trimestral.
+
+*Após assinatura, a parte de desktop (relatórios, cadastro de pacientes, agendas...) será instalada no cliente remotamente
+
+
+-------------------------------------------------------------------------------------------------------------------
+*Após instalação o cliente/psicólogo realiza o seu cadastro no sistema
+
+*Após realização de cadastro do psicólogo, o mesmo cadastrará os paciente no sistema
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+*O paciente cadastrado poderá a qualquer momento cadastrar um evento de crise, seguido por uma avaliação de seu humor. 
+Este evento será enviado para o servidor do sistema, na qual os dados serão armazenados (textos e o humor).
+
+-------------------------------------------------------------------------------------------------------------------
+*O psicólogo acessa os dados no servidor, que serão processados e exibidos na forma de relatórios
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+Agenda
+-------------------------------------------------------------------------------------------------------------------
+*Psicologo cria a agenda de consulta
+*Paciente recebe a informação que a agenda foi criada e pode acessar a mesma
+
