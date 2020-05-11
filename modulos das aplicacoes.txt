@@ -1,0 +1,13 @@
+Módulo Psicólogo: 
+* Cadastrar psicologo
+* Cadastrar paciente
+* Relatórios
+* Gerenciamento de prontuários de atendimento do paciente
+
+Módulo paciente:
+* Enviar os relatos dos eventos sentimentais ao longo da semana
+* Recebe alerta de agendamento de consulta
+* Verifia seu horários agendados para consulta
+
+Módulo agenda
+* agenda online
