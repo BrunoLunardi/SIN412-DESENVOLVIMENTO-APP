@@ -1,0 +1,12 @@
+Versão 1
+	CRUD Psicólogo
+	CRUD Paciente
+	Registro de humor	
+	CRUD Relatos (somente texto na primeira versão)
+Versão
+	Relatório semanal de palavras repetidas
+	Relatório mensal de palavras repetidas
+	Relatório semanal de variação de humor
+	Relatório mensal de variação de humor	
+	Conversão de áudio para texto
+	CRUD Prontuário
