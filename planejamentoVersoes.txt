@@ -10,3 +10,16 @@ Versão
 	Relatório mensal de variação de humor	
 	Conversão de áudio para texto
 	CRUD Prontuário
+
+[RFS1] CRUD Psicólogo
+[RFS2] CRUD Paciente
+[RFS3] Registro de humor
+[RFS4] CRUD Agendar Consultas
+[RFS5] Consulta
+[RFS6] CRUD Prontuário
+[RFS7] Relatório semanal de palavras repetidas
+[RFS8] Relatório mensal de palavras repetidas
+[RFS9] Relatório semanal de variação de humor
+[RFS10] Relatório mensal de variação de humor
+[RFS11]	CRUD Relatos
+[RFS12]	Conversão de áudio para texto
