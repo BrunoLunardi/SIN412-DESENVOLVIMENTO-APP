@@ -1,0 +1,19 @@
+Conta de psicologo já feita:
+
+admin@teste.com
+
+123456
+
+
+
+Conta de paciente atrelada ao psicologo acima:
+
+email3232@teste.com
+
+123456
+----------------------------------------------
+Anotamentos =)
+
+alterar prontuário para consulta no menu...
+
+Atentar a bolinha vermelha (pode ser usado para outras indicações)
